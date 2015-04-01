@@ -56,7 +56,9 @@ Choosing an edgy new framework does reduce the population of “experienced deve
 
 ## Builds to native mobile
 
-Meteor has full Cordova integration, and can be used to build native mobile apps now. The quality of HTML5 mobile apps continues to approach native mobile, and it’s hard to argue the benefits of using the same code base to power your desktop web app, mobile web app, native iOS, and native Android apps.
+Meteor has full Cordova integration, and can be used to build native mobile apps.
+
+The quality of HTML5 mobile apps continues to approach native mobile, and it’s hard to argue the cost benefits of using the same code base to power your desktop web app, mobile web app, native iOS, and native Android apps.
 
 ## Full Windows support
 
