@@ -1,4 +1,6 @@
-I’ve been using Meteor for over two years now, and it continues to grow on me. I'll never bash Rails, other Node/JavaScript stacks, or Python/Django. They’re good choices too, but for me, they’re just not as modern, simple, or fun as Meteor.
+I’ve been using Meteor for over two years now, and it continues to grow on me.
+
+I'll never bash Rails, other Node/JavaScript stacks, or Python/Django. They’re good choices too. But for me, they’re just not as modern, simple, or fun as Meteor.
 
 Most web/mobile developers are at least *intrigued* by modern JavaScript development, if they haven't already dove into it.
 
