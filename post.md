@@ -72,6 +72,6 @@ Any platform that values simplicity can be criticized for what it’s missing, b
 
 *The community has published a number of great getting started guides. Josh Owens' [getting started guide](http://joshowens.me/getting-started-with-meteor-js/) or [what is Meteor](http://joshowens.me/what-is-meteor-js/) should be your next read.*
 
-*If you want to see a Meteor app in action, check out my latest product [USERcycle](https://usercycle.com), which provides user analytics
+*If you want to see a Meteor app in action, check out my latest product [Astronomer](http://astronomer.io), which provides user analytics
 that connects to your own database.*
 
